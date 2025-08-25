@@ -17,7 +17,8 @@
 <img width="1916" height="699" alt="image" src="https://github.com/user-attachments/assets/385d0929-6bac-4519-9da1-ffa025e7ad11" />
 <br><br>
 <br><br>
-## The average response was around 3 seconds 
+
+ The average response was around 3 seconds 
 
 <br><br>
 <br><br>
