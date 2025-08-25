@@ -26,6 +26,7 @@
 <img width="1064" height="288" alt="image" src="https://github.com/user-attachments/assets/58cb50e8-f929-43bc-a643-9be4ffed5988" />
 <br><br>
 <br><br>
+
 ### Gemini API key was used
 <img width="861" height="307" alt="image" src="https://github.com/user-attachments/assets/0ea51a5a-5162-4b04-b0de-bddfb8273012" />
 
